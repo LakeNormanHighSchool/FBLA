@@ -4,5 +4,23 @@
     "url": "https://www.fbla.org/high-school/competitive-events/",
     "description": "Guidelines and study resources for every competitive event.",
     "photo": ""
+  },
+  {
+    "title": "FBLA North Carolina",
+    "url": "https://www.ncfbla.org/",
+    "description": "The state website",
+    "photo": ""
+  },
+  {
+    "title": "WW FBLA",
+    "url": "https://www.fbla.org/",
+    "description": "Full FBLA Nation website",
+    "photo": ""
+  },
+  {
+    "title": "FBLA Connect",
+    "url": "https://connect.fbla.org/",
+    "description": "FBLA Member management provided by GreekTrack",
+    "photo": ""
   }
 ]
