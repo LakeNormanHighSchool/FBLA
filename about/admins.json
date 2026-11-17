@@ -37,12 +37,6 @@
   },
   {
     "photo": "",
-    "name": "Gaurinandan Kannappan",
-    "role": "VP. Northwest FBLA",
-    "bio": ""
-  },
-  {
-    "photo": "",
     "name": "Liam Dumbrigue",
     "role": "Co-president",
     "bio": ""
@@ -57,6 +51,12 @@
     "photo": "",
     "name": "Landon Loughnane",
     "role": "VP. Community Service",
+    "bio": ""
+  },
+  {
+    "photo": "https://www.dropbox.com/scl/fi/b68tfgkkpi1hfgzaak3u9/nandon.png?rlkey=ayzj8bf57fep2jba0cxpama0g&st=o7at2gvk&dl=1",
+    "name": "Gaurinandan Kannappan",
+    "role": "VP. Northwest FBLA",
     "bio": ""
   }
 ]
